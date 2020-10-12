@@ -27,7 +27,7 @@ def times():
     math = "multiplication"
     first_num = entry.get()
     f_num = int(first_num)
-    entry.delete(0, END)
+#     entry.delete(0, END)
 def divide():
     global f_num
     global math
