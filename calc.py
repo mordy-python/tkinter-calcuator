@@ -4,7 +4,8 @@ root = Tk()
 root.title("Calculator")
 root['bg'] = "lightgrey"
 root.resizable(False, False)
-root.iconbitmap("C:/Users/jwald/OneDrive/Desktop/python-files/calc.ico")
+#root.iconbitmap("C:/Users/jwald/OneDrive/Desktop/python-files/calc.ico")
+#I think you should upload the icon here when referencing it
 
 global math
 global f_num
